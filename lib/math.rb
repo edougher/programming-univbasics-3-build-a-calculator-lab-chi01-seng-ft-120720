@@ -38,7 +38,7 @@ end
 
 modulo(9,2)
 
-def square_root(num) 
+def square_root(num)
 Math.sqrt(num)
 end
 
